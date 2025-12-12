@@ -171,28 +171,27 @@ List of all detectable fruit slices
 ---
 
 ### Detection Results & Prediction Distribution
-
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img src="screenshots/detection-orange.png" width="250" alt="Orange Detection"><br>
 <b>🍊 Orange Detected</b><br>
 Successful classification with confidence
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img src="screenshots/detection-kiwi.png" width="250" alt="Kiwi Detection"><br>
 <b>🥝 Kiwi Detected</b><br>
 Another detection example
 </td>
-<td align="center" colspan="2">
+<td align="center" width="33%">
 <img src="screenshots/prediction-distribution.png" width="250" alt="Prediction Distribution"><br>
 <b>📊 Prediction Distribution</b><br>
 Expandable section showing probability breakdown for all 10 classes
 </td>
 </tr>
 </table>
-</div> 
+</div>
 
 ---
 
@@ -200,27 +199,24 @@ Expandable section showing probability breakdown for all 10 classes
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="screenshots/history-empty.png" width="250" alt="History Empty"><br>
 <b>📜 Empty History</b><br>
 No scan history yet
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="screenshots/history-filled.png" width="250" alt="History Filled"><br>
 <b>📜 Scan History</b><br>
 Log with thumbnails and labels
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="screenshots/stats-pie.png" width="250" alt="Pie Chart"><br>
 <b>📊 Pie Chart</b><br>
 Visual distribution of scanned fruit types
 </td>
-<td align="center">
+<td align="center" width="50%">
 <img src="screenshots/stats-line.png" width="250" alt="Line Chart"><br>
 <b>📈 Line Chart Analytics</b><br>
 Average detections per fruit class
@@ -229,3 +225,4 @@ Average detections per fruit class
 </table>
 </div>
 
+---
