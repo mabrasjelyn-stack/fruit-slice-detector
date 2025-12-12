@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "332942455853",
+    "firebase_url": "https://mabras-fruitslice-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mabras-fruitslice",
+    "storage_bucket": "mabras-fruitslice.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332942455853:android:8482793109268b4199b4a4",
+        "android_client_info": {
+          "package_name": "com.example.identify_tools"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaaG767C2BtBH4xBifgu4I_h8op-XjTl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
