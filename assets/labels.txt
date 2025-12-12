@@ -1,0 +1,10 @@
+0 Apple Slice
+1 Banana Slice
+2 Grapefruit Slice
+3 Kiwi Slice
+4 Lemon Slice
+5 Mango Slice
+6 Orange Slice
+7 Pineapple Slice
+8 Strawberry Slice
+9 Watermelon Slice
