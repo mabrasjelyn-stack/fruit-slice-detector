@@ -125,17 +125,17 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="screenshots/01-splash.png" width="250" alt="Splash Screen"><br>
+<img src="screenshots/splash.png" width="250" alt="Splash Screen"><br>
 <b>🎨 Splash Screen</b><br>
 Animated welcome screen with gradient background
 </td>
 <td align="center" width="33%">
-<img src="screenshots/02-home.png" width="250" alt="Home Page"><br>
+<img src="screenshots/home.png" width="250" alt="Home Page"><br>
 <b>🏠 Home Page</b><br>
 Main dashboard with quick action buttons
 </td>
 <td align="center" width="33%">
-<img src="screenshots/11-drawer.png" width="250" alt="Navigation Drawer"><br>
+<img src="screenshots/drawer.png" width="250" alt="Navigation Drawer"><br>
 <b>📋 Navigation Drawer</b><br>
 Side menu for accessing all app features
 </td>
@@ -150,17 +150,17 @@ Side menu for accessing all app features
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="screenshots/03-scanner-empty.png" width="250" alt="Scanner Empty"><br>
+<img src="screenshots/scanner-empty.png" width="250" alt="Scanner Empty"><br>
 <b>📷 Scanner Ready</b><br>
 Interface ready to capture or select fruit image
 </td>
 <td align="center" width="33%">
-<img src="screenshots/04-scanner-carousel.png" width="250" alt="Class Carousel"><br>
+<img src="screenshots/scanner-carousel.png" width="250" alt="Class Carousel"><br>
 <b>🎠 Class Carousel</b><br>
 Browse all detectable fruit classes
 </td>
 <td align="center" width="33%">
-<img src="screenshots/12-tools-list.png" width="250" alt="Tools List"><br>
+<img src="screenshots/tools-list.png" width="250" alt="Tools List"><br>
 <b>📝 Available Classes</b><br>
 List of all detectable fruit slices
 </td>
@@ -176,19 +176,19 @@ List of all detectable fruit slices
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="screenshots/05-detection-orange.png" width="250" alt="Orange Detection"><br>
+<img src="screenshots/detection-orange.png" width="250" alt="Orange Detection"><br>
 <b>🍊 Orange Detected</b><br>
 Successful classification with confidence
 </td>
 <td align="center" width="50%">
-<img src="screenshots/06-detection-kiwi.png" width="250" alt="Kiwi Detection"><br>
+<img src="screenshots/detection-kiwi.png" width="250" alt="Kiwi Detection"><br>
 <b>🥝 Kiwi Detected</b><br>
 Another detection example
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<img src="screenshots/13-prediction-distribution.png" width="250" alt="Prediction Distribution"><br>
+<img src="screenshots/prediction-distribution.png" width="250" alt="Prediction Distribution"><br>
 <b>📊 Prediction Distribution</b><br>
 Expandable section showing probability breakdown for all 10 classes
 </td>
@@ -203,17 +203,17 @@ Expandable section showing probability breakdown for all 10 classes
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="screenshots/07-history-empty.png" width="250" alt="History Empty"><br>
+<img src="screenshots/history-empty.png" width="250" alt="History Empty"><br>
 <b>📜 Empty History</b><br>
 No scan history yet
 </td>
 <td align="center" width="33%">
-<img src="screenshots/08-history-filled.png" width="250" alt="History Filled"><br>
+<img src="screenshots/history-filled.png" width="250" alt="History Filled"><br>
 <b>📜 Scan History</b><br>
 Log with thumbnails and labels
 </td>
 <td align="center" width="33%">
-<img src="screenshots/09-stats-pie.png" width="250" alt="Pie Chart"><br>
+<img src="screenshots/stats-pie.png" width="250" alt="Pie Chart"><br>
 <b>📊 Pie Chart</b><br>
 Visual distribution of scanned fruit types
 </td>
@@ -223,7 +223,7 @@ Visual distribution of scanned fruit types
 <table>
 <tr>
 <td align="center">
-<img src="screenshots/10-stats-line.png" width="250" alt="Line Chart"><br>
+<img src="screenshots/stats-line.png" width="250" alt="Line Chart"><br>
 <b>📈 Line Chart Analytics</b><br>
 Average detections per fruit class
 </td>
