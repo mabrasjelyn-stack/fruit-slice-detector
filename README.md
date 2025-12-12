@@ -185,8 +185,6 @@ Successful classification with confidence
 <b>🥝 Kiwi Detected</b><br>
 Another detection example
 </td>
-</tr>
-<tr>
 <td align="center" colspan="2">
 <img src="screenshots/prediction-distribution.png" width="250" alt="Prediction Distribution"><br>
 <b>📊 Prediction Distribution</b><br>
@@ -212,16 +210,16 @@ No scan history yet
 <b>📜 Scan History</b><br>
 Log with thumbnails and labels
 </td>
-<td align="center" width="33%">
-<img src="screenshots/stats-pie.png" width="250" alt="Pie Chart"><br>
-<b>📊 Pie Chart</b><br>
-Visual distribution of scanned fruit types
-</td>
 </tr>
 </table>
 
 <table>
 <tr>
+<td align="center" width="33%">
+<img src="screenshots/stats-pie.png" width="250" alt="Pie Chart"><br>
+<b>📊 Pie Chart</b><br>
+Visual distribution of scanned fruit types
+</td>
 <td align="center">
 <img src="screenshots/stats-line.png" width="250" alt="Line Chart"><br>
 <b>📈 Line Chart Analytics</b><br>
