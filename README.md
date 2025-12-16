@@ -42,7 +42,7 @@
 <div align="center">
 <img src="assets/orange-slice.PNG" width="350" alt="Orange Slice">
 </div>
-**Description:** The orange is a classic citrus fruit, known worldwide for its vibrant color and refreshing taste. When sliced, oranges reveal a beautiful internal structure.  
+The orange is a classic citrus fruit, known worldwide for its vibrant color and refreshing taste. When sliced, oranges reveal a beautiful internal structure.  
 
 ---
 
@@ -50,7 +50,7 @@
 <div align="center">
 <img src="assets/lemon-slice.PNG" width="350" alt="Lemon Slice">
 </div>
-**Description:** Lemons are tart citrus fruits with a pale yellow color. Lemon slices are lighter, more translucent, and smaller than oranges.  
+Lemons are tart citrus fruits with a pale yellow color. Lemon slices are lighter, more translucent, and smaller than oranges.  
 
 ---
 
@@ -58,7 +58,7 @@
 <div align="center">
 <img src="assets/Grapefruit.png" width="350" alt="Grapefruit Slice">
 </div>
-**Description:** Grapefruit is a large citrus fruit with pink to red flesh, known for its bitter-sweet taste and beautiful coloring.  
+Grapefruit is a large citrus fruit with pink to red flesh, known for its bitter-sweet taste and beautiful coloring.  
 
 ---
 
@@ -66,7 +66,7 @@
 <div align="center">
 <img src="assets/apple-slice.jpg" width="350" alt="Apple Slice">
 </div>
-**Description:** Apples reveal a distinctive star-shaped seed pattern when sliced horizontally, making them instantly recognizable.  
+Apples reveal a distinctive star-shaped seed pattern when sliced horizontally, making them instantly recognizable.  
 
 ---
 
@@ -74,7 +74,7 @@
 <div align="center">
 <img src="assets/watermelon-slice.jpg" width="350" alt="Watermelon Slice">
 </div>
-**Description:** Watermelon has bright red flesh, black seeds, and a green rind, making it visually distinctive.  
+Watermelon has bright red flesh, black seeds, and a green rind, making it visually distinctive.  
 
 ---
 
@@ -82,7 +82,7 @@
 <div align="center">
 <img src="assets/sliced-strawberry.jpg" width="350" alt="Strawberry Slice">
 </div>
-**Description:** Strawberries are small, sweet berries with tiny seeds on the exterior. When sliced, they show a lighter interior flesh.  
+Strawberries are small, sweet berries with tiny seeds on the exterior. When sliced, they show a lighter interior flesh.  
 
 ---
 
@@ -90,7 +90,7 @@
 <div align="center">
 <img src="assets/kiwi-slice.jpg" width="350" alt="Kiwi Slice">
 </div>
-**Description:** Kiwi has bright green flesh, a white center, and tiny black seeds in a radial pattern, making it visually striking.  
+Kiwi has bright green flesh, a white center, and tiny black seeds in a radial pattern, making it visually striking.  
 
 ---
 
@@ -98,7 +98,7 @@
 <div align="center">
 <img src="assets/pineapple-slice.PNG" width="350" alt="Pineapple Slice">
 </div>
-**Description:** Pineapple has golden flesh and a fibrous texture with a distinct circular core, making slices easy to identify.  
+Pineapple has golden flesh and a fibrous texture with a distinct circular core, making slices easy to identify.  
 
 ---
 
@@ -106,7 +106,7 @@
 <div align="center">
 <img src="assets/banana-slice.png" width="350" alt="Banana Slice">
 </div>
-**Description:** Bananas create perfect circular "coins" with a creamy texture when sliced. They have no seeds or complex internal structure.  
+Bananas create perfect circular "coins" with a creamy texture when sliced. They have no seeds or complex internal structure.  
 
 ---
 
@@ -114,7 +114,7 @@
 <div align="center">
 <img src="assets/mango-slice.png" width="350" alt="Mango Slice">
 </div>
-**Description:** Mango is known as the "king of fruits" with golden-orange flesh and smooth, fibrous texture.  
+Mango is known as the "king of fruits" with golden-orange flesh and smooth, fibrous texture.  
 
 ---
 
